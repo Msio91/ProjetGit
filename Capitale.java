@@ -1,4 +1,4 @@
-
+/*blablabla*/
 public class Capitale {
 	
 	private String nom;
